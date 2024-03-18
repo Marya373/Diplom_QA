@@ -6,19 +6,21 @@
 
 Покупка тура возможна с помощью карты и в кредит. Данные по картам обрабатываются отдельными сервисами (Payment Gate, Credit Gate)
 
-Полные условия и исходные данные описанного кейса можно посмотреть (https://docs.google.com/document/d/1oilPBsQtBTNY_OlCgjg1Qo9EfMLxkvnf/edit?usp=drive_link&ouid=101188291838802488304&rtpof=true&sd=true)#ссылка на дипломную работу
+Полные условия и исходные данные описанного кейса можно посмотреть [https://docs.google.com/document/d/1oilPBsQtBTNY_OlCgjg1Qo9EfMLxkvnf/edit] #ссылка на дипломную работу
 
 ## Документация 
 
-[Комплексный отчёт о проведённой автоматизации тестирования] #ссылка на Summary.md
+[Отчёт о проведённом тестировании] https://docs.google.com/presentation/d/1s4grt0-Odj6sDnSK1xg9F0n_i2dUp0xA/edit?usp=sharing&ouid=101188291838802488304&rtpof=true&sd=true
+
+[Комплексный отчёт о проведённой автоматизации тестирования] https://drive.google.com/file/d/19D6PSwbiSyMaLuzAZVKFVsOIw3o90L6J/view?usp=sharing
 
 ## Запуск приложения
 
 Перед запуском необходимо выполнить следующие предусловия. Если у вас уже есть необходимое ПО, то понадобится только п.1 и запуск Docker.
 
 *Предусловия:*
-1. Необходимо склонировать репозиторий git@github.com:Marya373/Diplom_QA.git или скачать архив по (https://drive.google.com/drive/folders/1EIIDldDva1-KUqFJ5V9QP6PbWN_WRNdk?usp=drive_link). Или воспользоваться VCS Git, встроенной в IntelliJ IDEA.
-2. Установать и запустить Docker Desktop. Это можно сделать здесь (https://docs.docker.com/desktop/) в зависимости от операционной системы. 
+1. Необходимо склонировать репозиторий git@github.com:Marya373/Diplom_QA.git или скачать архив по [https://drive.google.com/drive/folders/1EIIDldDva1-KUqFJ5V9QP6PbWN_WRNdk?usp=drive_link]. Или воспользоваться VCS Git, встроенной в IntelliJ IDEA.
+2. Установать и запустить Docker Desktop. Это можно сделать [здесь](https://docs.docker.com/desktop/) в зависимости от операционной системы. 
 3. Открыть проект в IntelliJ IDEA
 
 ### Запуск
